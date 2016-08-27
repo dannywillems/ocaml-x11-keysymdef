@@ -1,0 +1,4 @@
+version = "dev"
+description = "X11 Key definition in a OCaml sum type"
+archive(byte) = "x11_keysymdef.cma"
+archive(native) = "x11_keysymdef.cmxa"
